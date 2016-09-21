@@ -33,4 +33,4 @@ USER qmapshack
 WORKDIR /home/qmapshack
 ENV HOME /home/qmapshack
 
-CMD/usr/local/bin/qmapshack
+CMD /usr/local/bin/qmapshack
